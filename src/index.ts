@@ -4,7 +4,7 @@ interface Color {
     green: number;
 }
 
-const color: Color = {red: 1, blue: 2, green: 3};
+const color: Color = {red: 10, blue: 2, green: 3};
 
 console.log(color);
 
